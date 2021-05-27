@@ -18,3 +18,10 @@ El cultivo en sí va a monitorear dos variables de importancia en el cultivo, se
 
 
 # Software utilizado
+
+- https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide.
+-  https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-ecosystem-downloads-archive.
+-  https://www.microchip.com/en-us/development-tools-tools-and-software/embedded-software-center/mplab-code-configurator.
+-  https://www.microchip.com/forums/f249.aspx.
+-  https://packs.download.microchip.com/.
+
