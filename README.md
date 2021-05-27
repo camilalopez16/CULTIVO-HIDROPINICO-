@@ -12,3 +12,4 @@ El cultivo en sí va a monitorear dos variables de importancia en el cultivo, se
 # DOCUMENTACIÓN 
 - http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16F15213-14-23-24-43-44-Data-Sheet-DS40002195B.pdf.
 -  https://www.microchip.com/wwwproducts/en/PIC16F15244.     
+- http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16F15244-Curiosity-Nano-Hardware-User-Guide-DS50003045A.pdf.
