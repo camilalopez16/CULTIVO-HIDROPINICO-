@@ -10,10 +10,11 @@ de igual manera, además, de este se puede sacar provecho ya que es perfecto par
 El cultivo en sí va a monitorear dos variables de importancia en el cultivo, serán la temperatura y la humedad las magnitudes que permitirán tomar decisiones en el cuidado del cultivo, subsistencia en las condiciones específicas requeridas por el tipo de planta que se vaya a sembrar, además el montaje contará con un sensor de nivel en su tanque suministrador de agua el cual dará conocimiento del estado del nivel de agua restante en el sistema, además de proveer seguridad ya la motobomba que alimentará al cultivo.
 
 # DOCUMENTACIÓN 
--PIC16F15244 Página de producto.
--Hoja de datos PIC16F15244.
--Página del kit de evaluación PIC16F15244 Curiosity Nano.
--Documentación de la junta.
--Compilador manual de usuario XC8.
--Fundamentos del lenguaje de programación C.
--Ejemplos de código PIC16F15244 en GitHub.
+PIC16F15244 Página de producto.
+Hoja de datos PIC16F15244.
+Página del kit de evaluación PIC16F15244 Curiosity Nano.
+Documentación de la junta.
+Compilador manual de usuario XC8.
+Fundamentos del lenguaje de programación C.
+Ejemplos de código PIC16F15244 en GitHub.
+PIC16F15244 Curiosity Nano Schematics.
