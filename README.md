@@ -28,3 +28,9 @@ El cultivo en sí va a monitorear dos variables de importancia en el cultivo, se
 # Materiales 
 
 ![WhatsApp Image 2021-05-27 at 3 51 29 PM](https://user-images.githubusercontent.com/80223879/119895489-75f91f80-bf03-11eb-8da5-0f3aa7de3db2.jpeg)
+
+# Configuración 
+
+
+La implementaci´pon se hará en un cultivo donde a base de sensores se tomarán desiciones para llevar a cabo acciones especificas, las cuales son: regar, bombear agua y mostrar en pantalla valores generados por los sensores. 
+
