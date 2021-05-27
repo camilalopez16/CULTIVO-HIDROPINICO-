@@ -15,3 +15,6 @@ El cultivo en sí va a monitorear dos variables de importancia en el cultivo, se
 - http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16F15244-Curiosity-Nano-Hardware-User-Guide-DS50003045A.pdf.
 
 -  https://microchipdeveloper.com/tls2101:start.
+
+
+# Software utilizado
