@@ -8,3 +8,4 @@ Para poder hablar de esto, principalmente se necesita saber en que consiste. ent
 de igual manera, además, de este se puede sacar provecho ya que es perfecto para el ahorro de recursos, fundamentalmente de agua gracias a la reutilización de la misma y los alimentos son más seguros por la ausencia de productos químicos y de riesgos de enfermedades que se producen en la tierra.
 
 El cultivo en sí va a monitorear dos variables de importancia en el cultivo, serán la temperatura y la humedad las magnitudes que permitirán tomar decisiones en el cuidado del cultivo, subsistencia en las condiciones específicas requeridas por el tipo de planta que se vaya a sembrar, además el montaje contará con un sensor de nivel en su tanque suministrador de agua el cual dará conocimiento del estado del nivel de agua restante en el sistema, además de proveer seguridad ya la motobomba que alimentará al cultivo.
+
