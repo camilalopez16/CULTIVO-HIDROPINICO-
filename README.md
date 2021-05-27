@@ -25,3 +25,6 @@ El cultivo en sí va a monitorear dos variables de importancia en el cultivo, se
 -  https://www.microchip.com/forums/f249.aspx.
 -  https://packs.download.microchip.com/.
 
+# Materiales 
+
+![WhatsApp Image 2021-05-27 at 3 51 29 PM](https://user-images.githubusercontent.com/80223879/119895489-75f91f80-bf03-11eb-8da5-0f3aa7de3db2.jpeg)
